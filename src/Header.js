@@ -8,7 +8,7 @@ function Header() {
         <div className="header">
             <Navbar expand="lg">
                 <Container>
-                    <div className='Hlogo'>
+                    <div className='logo'>
                         <img src={logo}
 
 

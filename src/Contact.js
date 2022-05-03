@@ -5,7 +5,7 @@ function Contact() {
     return (
         <>
             <div className='contact'>
-                <h1 className='hsize'>Contact Us</h1>
+                <h1 className='heading'>Contact Us</h1>
                 <div class='row'>
                     <div class='col-lg-5 col-md-5 co-12'>
                         <div class="leftpart">
